@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ar/eng">
+<Welcome>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=" getm" content=personal link[djm]، [programy]. Public link ،blytaqy@gmail.com.">
+    <>[Getm] - link</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">hii</a></li>
+                <li><a href="#about">مقدم لموقع الكتروني شخصي من طرف djmتحت اسم. Getm</a></li>
+                <li><a href="#skills">written</a></li>
+                <li><a href="#projects">first link</a></li>
+                <li><a href="#contact">+213551230776</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>مرحبًا بكم في موقعي الشخصي</h1>
+        <p>أنا [djm]، [programmy].</p>
+        <!-- 
+-->
+    </section>
+
+    <section id="something coming soon">
+        <h2>getm</h2>
+        <p>[adult]</p>
+        <!-- أضف صورة شخصية هنا -->
+    </section>
+
+    <section id="skills">
+        <المهارات</h2>
+        <ul>
+            <li> 1 only program and poems</li>
+     
+        </ul>
+        
+    </section>
+
+    <section id="projects">
+        
+        <div class="project">
+            <h3>linl</h3>
+            <img src="project1.jpg" alt="" link>
+          Presentation   1</p>
+        </div>
+        <div class="project">
+            <h3>link</h3>
+            <img src="project2.jpg" alt="linl">
+            <p>is my first like it's like a beginning project for me I'll be tell more soon after i was make it and be ready to any question 
+Don't forget text me in blytaqy@gmail.com2</p>
+        </div>
+        <!-- soon... -->
+    </section>
+
+    <section id="0551230776/+213">
+        <h2>to more information</h2>
+        <form action="submit_form.php" method="post">
+            <label for="name">الاسم:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="blytaqy@gmail.com">البريد الإلكتروني:</label>
+            <input type="blytaqy@gmail.com" id="ta9i.djm@gmail.com" name="ta9i.djm@gmail.com" required>
+            <label for="message">الرسالة:</label>
+            <textarea id="message" name="message" required></textarea>
+            <button type="submit">sent</button>
+        </Djm>
+
+    <footer>
+        <p>&copy; 2025 [getm]. جميع الحقوق محفوظة.</p>
+        <div class="social-links">
+            <a href="#">LinkedIn</a>
+            <a href="#">GitHub</a>
+            <a href="#">Twitter</a>
+        </div>
+    </footer>
+
